@@ -1,7 +1,7 @@
 👋 Hi, I’m @AlonBenyatov
 
 - 👀 Interested in programming, with a strong focus on AI, Machine Learning, and Robotics using Python mainly and c++.
-- 🌱 First-year B.Sc. Computer Science student at The Open University of Israel. Experienced in Java (OOP), familiar with C# and C++.
+- 🌱 First-year B.Sc. Computer Science student at The Open University of Israel. Experienced in Java (OOP) and Python , familiar with C# and C++.
 - 💞️ Looking to collaborate on programming projects in AI, game development, software engineering, or embedded systems to strengthen skills and gain practical experience.
 - 🛠 Skills:
   - **Python** – Intermediate (Pandas, NumPy, SciPy, Machine Learning in progress)
