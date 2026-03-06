@@ -11,4 +11,3 @@
  - **Tools & Platforms** – Git/GitHub, Jupyter Notebook, VS Code, Eclipse
    
 - 📫 How to reach me: alon.b2003@gmail.com | [LinkedIn](https://www.linkedin.com/in/alon-benyatov-2501a836a/) | [GitHub](https://github.com/AlonBenyatov)
-- ⚡ Fun fact: I’m following a 26-month personal roadmap to build an autonomous robot integrating AI with real-world sensors and actuators.
